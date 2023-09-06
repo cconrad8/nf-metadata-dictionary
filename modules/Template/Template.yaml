@@ -17,6 +17,10 @@ classes:
   ImagingDataTemplate:
     is_a: AssayDataTemplate
     description: A template for data from an imaging assay.
+
+  ClinicalImagingDataTemplate:
+    is_a: AssayDataTemplate
+    description: A template for data from an clinical imaging assay.
   
   ResearchToolsTemplate:
     is_a: Template
@@ -467,7 +471,26 @@ classes:
     annotations:
       requiresComponent: ''
       required: false
-  
+
+  ClinicalImagingAssayTemplate:
+    is_a: ClinicalImagingDataTemplate
+    description: Generic template for describing data from a clinical imaging type assay. 
+    slots:
+    - Component
+    - Filename
+    - resourceType
+    - progressReportNumber
+    - dataType
+    - assay
+    - platform
+    - assayTarget
+    - individualID
+    - parentSpecimenID
+    - comments
+    annotations:
+      requiresComponent: ''
+      required: false
+      
   MRIAssayTemplate:
     is_a: ImagingDataTemplate
     description: Generic template for describing data from an MRI assay. This is a one-step template.
