@@ -40252,6 +40252,122 @@
       "rdfs:label": "IDT xGen V1 P",
       "sms:displayName": "IDT xGen V1 P",
       "required": "false"
+    },
+    {
+      "@id": "bts:IDT xGen V1 T",
+      "required": "false"
+    },
+    {
+      "@id": "bts:IDT xGen V2 P",
+      "required": "false"
+    },
+    {
+      "@id": "bts:IDT xGen V2 T",
+      "required": "false"
+    },
+    {
+      "@id": "bts:KAPA Hyper P",
+      "required": "false"
+    },
+    {
+      "@id": "KAPA Hyper T",
+      "required": "false"
+    },
+    {
+      "@id": "SeqCap EZ Med P",
+      "required": "false"
+    },
+    {
+      "@id": "SeqCap EZ Med T",
+      "required": "false"
+    },
+    {
+      "@id": "SeqCap EZ Med+Mito P",
+      "required": "false"
+    },
+    {
+      "@id": "SeqCap EZ Med+Mito T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. Clinical V2 P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. Clinical V2 T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. Focused P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. Focused T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V4+UTR P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V4+UTR T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V5+UTR P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V5+UTR T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V6 +UTR T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V6 P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V6 T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V6+COSMIC P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V6+COSMIC T",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V6+UTR P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V7 P",
+      "required": "false"
+    },
+    {
+      "@id": "SureSel. V7 T",
+      "required": "false"
+    },
+    {
+      "@id": "Twist Compr. T",
+      "required": "false"
+    },
+    {
+      "@id": "Twist Core T",
+      "required": "false"
+    },
+    {
+      "@id": "Twist Exome 2.0",
+      "required": "false"
+    },
+    {
+      "@id": "Twist RefSeq T",
+      "required": "false"
     }
   ]
 }
